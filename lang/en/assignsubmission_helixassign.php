@@ -37,6 +37,7 @@ $string['helixassignfilename'] = 'helixassign.html';
 $string['helixassignsubmission'] = 'Allow MEDIAL Video submission';
 $string['helixsubmissionlog'] = 'MEDIAL Submission';
 $string['pluginname'] = 'MEDIAL Assignment';
+$string['privacy:metadata'] = 'Helix Assignment Submission plugin does not store any personal data.';
 $string['version_warning_head'] = 'WARNING';
 $string['version_warning_mes'] = 'The MEDIAL submission plugin requires you to have the MEDIAL Activity module version';
 $string['version_warning_mes2'] = 'installed on your moodle system.';
